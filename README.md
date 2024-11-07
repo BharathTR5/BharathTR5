@@ -1,12 +1,12 @@
-![Bharath T R Banner Image](./banner.png)
+![Bharath T R Banner Image](./banner.jpg)
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BharathTR5.BharathTR5)](https://github.com/BharathTR5) [![GitHub followers](https://img.shields.io/github/followers/BharathTR5.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BharathTR5.BharathTR5)](https://github.com/BharathTR5) [![GitHub followers](https://img.shields.io/github/followers/BharathTR5.svg?style=social&label=Follow)](https://github.com/BharathTR5?tab=followers)
 
 I'm Bharath T R 
-- <i>Currently:</i> WILP Trainee @ WIPRO. 
-- <i>Previously:</i> Web Development Intern at TechOctanet
+- <i>Currently:</i> Web Development Intern at TechOctanet Pvt ltd
+- <i>Previously:</i> Web Development Intern at CodSoft
 
 <h2>👀 Stats</h2>
 
