@@ -5,8 +5,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BharathTR5.BharathTR5)](https://github.com/BharathTR5) [![GitHub followers](https://img.shields.io/github/followers/BharathTR5.svg?style=social&label=Follow)](https://github.com/BharathTR5?tab=followers)
 
 I'm Bharath T R 
-- <i>Currently:</i> Web Development Intern at TechOctanet Pvt ltd
-- <i>Previously:</i> Web Development Intern at CodSoft
+- <i>Currently:</i> Scholor Trainee at Wipro
+- <i>Previously:</i> Student at J-spiders, Rajajinagara
 
 <h2>👀 Stats</h2>
 
@@ -18,9 +18,9 @@ I'm Bharath T R
 
 <h2> About Bharath⚡:</h2>
 
-I'm a Graduate Student living in Bengaluru, I love to read, enjoy music and explore nature outdoors.
+I'm a Scholor Trainee at Wipro, Bengaluru. I love to read, enjoy music and explore nature outdoors.
 
-- Check out my Portfolio: [Portfolio](https://bharathtr5.github.io/Portfolio/)
+- Check out my Portfolio: [Portfolio](https://bharathtr5.github.io/My-Portfolio/)
 - Know more about me: [About Bharath](https://bharathtr5.github.io/Portfolio/#about-container)
 - Write to me: [bharathtr70260@gmail.com](mailto:bharathtr70260@gmail.com)
 
@@ -36,6 +36,12 @@ I'm a Graduate Student living in Bengaluru, I love to read, enjoy music and expl
   <li>Hibernate</li>
   <li>Spring boot</li>
   <li>Git & GitHub</li>
+  <li>Linux</li>
+  <li>Microsoft Azure</li>
+  <li>Windows Administration</li>
+  <li>ITIL</li>
+  <li>Web Services</li>
+  <li>Networking</li>
 </ul> <br>
 
 <h2>📫 How to reach me:</h2>
